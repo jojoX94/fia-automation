@@ -1,0 +1,17 @@
+{
+  "input": "temp_upload.xlsx",
+  "outdir": "run_20251030_160648",
+  "numero_groupe_detecte": "",
+  "rows_total": 26,
+  "rows_cleaned": 26,
+  "rows_errors": 0,
+  "columns_mapping": {
+    "code_perso": 3,
+    "nom_prenom": 4,
+    "courriel": 6,
+    "telephone": 7
+  },
+  "header_row_index": 6,
+  "phonenumbers_available": true,
+  "timestamp": "20251030_160648"
+}
