@@ -7,3 +7,4 @@ openpyxl>=3.1.0
 unidecode>=1.3.6
 phonenumbers>=8.13.0
 loguru>=0.7.0
+numbers-parser>=3.0.0

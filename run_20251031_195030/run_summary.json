@@ -1,6 +1,6 @@
 {
   "input": "temp_upload.xlsx",
-  "outdir": "run_20251030_160622",
+  "outdir": "run_20251031_195030",
   "numero_groupe_detecte": "",
   "rows_total": 26,
   "rows_cleaned": 26,
@@ -13,5 +13,5 @@
   },
   "header_row_index": 6,
   "phonenumbers_available": true,
-  "timestamp": "20251030_160622"
+  "timestamp": "20251031_195030"
 }
